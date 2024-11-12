@@ -1,3 +1,8 @@
-# Nitro starter
+```txt
+npm install
+npm run dev
+```
 
-Look at the [nitro quick start](https://nitro.unjs.io/guide#quick-start) to learn more how to get started.
+```txt
+npm run deploy
+```
