@@ -1,3 +1,3 @@
 export default eventHandler((event) => {
-  return event.respondWith( Response.json({ hello: "world" }));
+  return "Start by editing <code>server/routes/index.ts</code>.";
 });
